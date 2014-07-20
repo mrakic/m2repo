@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cocos2dx.lib</groupId>
+  <artifactId>libcocos2dx</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20140720175238</lastUpdated>
+  </versioning>
+</metadata>

@@ -6,4 +6,18 @@
   <artifactId>cygnusPlayscapeLibrary</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>proj.android</groupId>
+      <artifactId>libcocos2dx</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>proj.android</groupId>
+      <artifactId>playscapepublishingkitx</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
