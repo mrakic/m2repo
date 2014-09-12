@@ -2,16 +2,11 @@
 <metadata>
   <groupId>net.reactivestudios.codenamecygnus.playscape</groupId>
   <artifactId>cygnusPlayscapeLibrary</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.6</version>
   <versioning>
     <versions>
-      <version>1.0.0</version>
-      <version>1.0.1</version>
-      <version>1.0.2</version>
-      <version>1.0.3</version>
-      <version>1.0.4</version>
-      <version>1.0.5</version>
+      <version>1.0.6</version>
     </versions>
-    <lastUpdated>20140910031834</lastUpdated>
+    <lastUpdated>20140912035722</lastUpdated>
   </versioning>
 </metadata>
